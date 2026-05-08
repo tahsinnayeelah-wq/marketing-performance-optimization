@@ -1,0 +1,5 @@
+month,total_marketing_spend,total_new_customers,month_str,CAC,CAC_verification,classification,high_spend_flag,CAC_Change,inefficiency_trend,anomaly_reason,rolling_avg_CAC_3m,weighted_CAC
+2024-05,22500.0,0,2024-05,Undefined,inf,Corrupt Data,Normal Spend,,More Efficient,Zero Acquisition,,
+2024-06,51000.0,425,2024-06,120.0,120.0,Moderate,Normal Spend,,More Efficient,No Anomaly,120.0,24.0
+2024-07,150000.0,5,2024-07,30000.0,30000.0,Inefficient,High Spend,29880.0,Less Efficient,High CAC,15060.0,9000.0
+2024-09,15500.0,0,2024-09,Undefined,inf,Corrupt Data,Normal Spend,,More Efficient,Zero Acquisition,15060.0,
